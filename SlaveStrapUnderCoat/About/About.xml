@@ -3,9 +3,9 @@
   <author>Nuker1110</author>               <!-- Usually set to your Steam name -->
   <packageId>Nuker1110.SlaveStrapFix</packageId>     <!-- a unique identifier for your mod. Must contain only a-z and periods, no spaces. -->
   <supportedVersions>                       <!-- the version(s) your mod supports in X.Y format. 1(X).3(Y) -->
-        <li>1.4</li>
+    <li>1.4</li>
 	<li>1.5</li>
 	<li>1.6</li>
 </supportedVersions>
-  <description>Makes Ideology's Slave Strap wearable under coats.</description>   <!-- enter information describing purpose of mod -->
+  <description>Makes Ideology's Slave Strap and Collar wearable under coats.</description>   <!-- enter information describing purpose of mod -->
 </ModMetaData>
