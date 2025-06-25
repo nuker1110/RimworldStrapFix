@@ -9,9 +9,6 @@
 				</layers>
 			</value>
 	</Operation>
-</Patch>
-
-<Patch>
  	<Operation Class="PatchOperationReplace">
 		<xpath>/Defs/ThingDef[defName="Apparel_Collar"]/apparel/layers</xpath>
 			<value>
