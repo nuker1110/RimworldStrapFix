@@ -12,7 +12,7 @@
  	<Operation Class="PatchOperationReplace">
 		<xpath>/Defs/ThingDef[defName="Apparel_Collar"]/apparel/layers</xpath>
 			<value>
-				<layers Inherit="False">
+				<layers>
 					<li>OnSkin</li>
 					<li>Middle</li>
 				</layers>
