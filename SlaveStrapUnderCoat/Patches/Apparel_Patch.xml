@@ -9,13 +9,14 @@
 				</layers>
 			</value>
 	</Operation>
- 	<Operation Class="PatchOperationReplace">
+ 	<!-- Commented out because the layer change broke textures and it works in vanilla anyway.
+	<Operation Class="PatchOperationReplace">
 		<xpath>/Defs/ThingDef[defName="Apparel_Collar"]/apparel/layers</xpath>
 			<value>
 				<layers>
 					<li>OnSkin</li>
-					<li>Middle</li>
 				</layers>
 			</value>
 	</Operation>
+	-->
 </Patch>
